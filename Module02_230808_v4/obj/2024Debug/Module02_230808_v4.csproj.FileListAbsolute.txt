@@ -1,0 +1,4 @@
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module02_230808_v4\obj\2024Debug\Module02_230808_v4.csproj.AssemblyReference.cache
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module02_230808_v4\obj\2024Debug\Module02_230808_v4.Properties.Resources.resources
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module02_230808_v4\obj\2024Debug\Module02_230808_v4.csproj.GenerateResource.cache
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module02_230808_v4\obj\2024Debug\Module02_230808_v4.csproj.CoreCompileInputs.cache

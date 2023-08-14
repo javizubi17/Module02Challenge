@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Module02_230808_v4 - Command 1</Text>
+    <Description>Some description for Module02_230808_v4</Description>
+    <Assembly>Module02_230808_v4.dll</Assembly>
+    <FullClassName>Module02_230808_v4.Command1</FullClassName>
+    <ClientId>F8B97154-7559-4A2E-8E09-4700FAE05752</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Module02_230808_v4 - Command 2</Text>
+    <Description>Some description for Module02_230808_v4</Description>
+    <Assembly>Module02_230808_v4.dll</Assembly>
+    <FullClassName>Module02_230808_v4.Command2</FullClassName>
+    <ClientId>F6F02C91-D3AA-4BEF-A2A3-CBCA803714FB</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Module02_230808_v4</Name>
+    <Assembly>Module02_230808_v4.dll</Assembly>
+    <FullClassName>Module02_230808_v4.App</FullClassName>
+    <ClientId>9EE7BFF5-F86C-4406-A1FB-8155F2A30691</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>

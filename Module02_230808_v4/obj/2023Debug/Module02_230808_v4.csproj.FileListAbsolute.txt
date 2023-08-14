@@ -1,0 +1,8 @@
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module02_230808_v4\bin\Debug\2023\Module02_230808_v4.dll
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module02_230808_v4\bin\Debug\2023\Module02_230808_v4.pdb
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module02_230808_v4\obj\2023Debug\Module02_230808_v4.csproj.AssemblyReference.cache
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module02_230808_v4\obj\2023Debug\Module02_230808_v4.Properties.Resources.resources
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module02_230808_v4\obj\2023Debug\Module02_230808_v4.csproj.GenerateResource.cache
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module02_230808_v4\obj\2023Debug\Module02_230808_v4.csproj.CoreCompileInputs.cache
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module02_230808_v4\obj\2023Debug\Module02_230808_v4.dll
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Module02_230808_v4\obj\2023Debug\Module02_230808_v4.pdb
